@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lab_flutter/form.dart';
+import 'package:lab_flutter/page/form.dart';
 import 'package:flutter/material.dart';
 
 void main() {
